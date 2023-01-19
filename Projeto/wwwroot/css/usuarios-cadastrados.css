@@ -1,0 +1,92 @@
+.container{
+    justify-content: center;
+    text-align: center;
+
+    margin: 10vh 11vw 35vh 11vw;
+    
+    }
+    
+    #tr{
+        display: flex;
+        justify-content: center;
+    
+    }
+#th {
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    color: var(--primary-color);
+    margin-left: -60px;
+    margin-top: 30px;
+}
+    
+    #td{
+        text-align: center;
+        justify-content: center;
+        justify-items: center;
+        margin-left: -60px;
+    }
+    
+    h1{
+        text-align: center;
+        margin-top: 25vh;
+        color: var(--primary-color);
+    
+    }
+    
+    #td button {
+        margin-left: 600px;
+        margin-top: 15px;
+        margin-bottom: 6px;
+        margin-top: 8px;
+    }
+
+
+    #td button{
+        height: 3vh;
+        width: 4vw !important;
+        border-radius: 15px !important;
+        background-color: #fcad75;
+        color: white;
+        border: none;
+    }
+    #td button:hover{
+       background-color: #f8944d;
+    }
+
+.col-sm-1 {
+    margin-left: -420px;
+}
+
+.div {
+    margin-top: -200px;
+}
+    
+    .img{
+      
+        background-size:cover ;
+        width: 5vw !important;
+    }
+    
+    #row {
+        align-items: center;
+        background-color: #E2DBE3;
+     
+        border-radius: 25px;
+        margin-top: 1vh;
+
+    }
+
+    #coisa {
+        margin-left: -200px;
+    }
+
+    
+    .editar button{
+        background-color: rgb(46, 165, 46) !important;
+    }
+    
+    .editar button:hover{
+        background-color: forestgreen !important;
+    }

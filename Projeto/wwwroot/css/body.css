@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2? family= Seaweed+Script & display=swap');
+.container-body {
+    display: flex;
+  z-index: 0;
+    height: 65vh;
+}
+.container-body div{
+    width: 100%;
+    
+    
+}
+.container-body div a{
+     color: var(--primary-color) !important;
+    font-family: 'Seaweed Script', cursiva;
+    font-size: 50px;
+    margin: 0 0 0 30px;
+}
+#image1{
+    position: relative;
+    background-image: url(../images/image1.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right, left;
+    background-size: cover; 
+}
+#image2{
+    position: relative;
+    background-image: url(../images/image4.jpeg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right, left;
+    background-size: cover; 
+}
+#image3{
+    position: relative;
+    background-image: url(../images/image3.jpg);
+    background-repeat: no-repeat, no-repeat;
+    background-position: right, left;
+    background-size: cover; 
+}
+
+#text-linhas-yogurte{
+    position: absolute;
+    bottom: 0;
+}
